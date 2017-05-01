@@ -1,2 +1,3 @@
 Them mot file. Sau do git add.
 Sau khi add xong thi tien hanh them dong 2.
+Them dong nay sau do chay git add.
