@@ -1,2 +1,2 @@
 # myfirsttest
-Hoc git
+Hoc git: Lan dau edit file nay.
